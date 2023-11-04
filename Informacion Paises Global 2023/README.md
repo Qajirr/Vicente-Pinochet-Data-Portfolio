@@ -1,2 +1,2 @@
-# Vicente-Pinochet-Data-Portfolio
- Análisis de datos, machine learning y visualización de datos.Mostrando proyectos que demuestran mi experiencia y habilidades.
+# Informacion Paises Global 2023
+Datos extraidos desde https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023/data
